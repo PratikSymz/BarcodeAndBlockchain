@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Barcode And Blockchain</string>
+
+    <string name="error">Error!</string>
+    <string name="not_a_url">Not a URL</string>
+    <string name="rescan">Rescan</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="illegal_state">Attempting to draw a null barcode</string>
+</resources>

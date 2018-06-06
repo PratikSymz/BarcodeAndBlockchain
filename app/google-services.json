@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50731341659",
+    "firebase_url": "https://barblockchain.firebaseio.com",
+    "project_id": "barblockchain",
+    "storage_bucket": "barblockchain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50731341659:android:4fef1edb3827fcab",
+        "android_client_info": {
+          "package_name": "com.pratiksymz.android.barcodeandblockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50731341659-uvimr2bdbkmr0min4prqfa8soghq3nqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratiksymz.android.barcodeandblockchain",
+            "certificate_hash": "d41b1bdab328d4fb06942c46667bc911259ba999"
+          }
+        },
+        {
+          "client_id": "50731341659-10m63je9lp11gpr59nh1u5ltgff8rr2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3fAz4synomEhIuR-4S9rn1O6UCxzUcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50731341659-10m63je9lp11gpr59nh1u5ltgff8rr2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
